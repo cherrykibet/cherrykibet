@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+<img src="ck_stamp_badge.svg" width="180" align="right"/>
 <!--
 **cherrykibet/cherrykibet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
